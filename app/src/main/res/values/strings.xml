@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Adulting101</string>
+    <!--IMAGES-->
+    <string name="bg">bg</string>
+
+    <!--INPUT BOX-->
+    <string name="uname">Username</string>
+    <string name="pword">Password</string>
+
+    <string name="username">Enter username..</string>
+    <string name="password1">Set password..</string>
+    <string name="password2">Confirm password..</string>
+
+    <!--BUTTON-->
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+
+
+
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+
+</resources>
