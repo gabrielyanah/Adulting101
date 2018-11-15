@@ -13,8 +13,13 @@ public class LoginPage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_page);
     }
+//    public void sign(View v) {
+//       startActivity(new Intent(LoginPage.this, SignupPage.class));
+//    }
+
     public void sign(View v) {
-       startActivity(new Intent(LoginPage.this, SignupPage.class));
+        Intent i = new Intent(getApplicationContext(), SignupPage.class);
+        startActivity(i);
     }
 
 
